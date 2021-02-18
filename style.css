@@ -68,7 +68,7 @@ span {
 }
 
 .fixedDiv {
-    background: rgba(1, 20, 29, 0.7);
+    background: rgba(1, 20, 29, 0.9);
     height: 100vh;
     position: fixed;
     width: 100%;
