@@ -88,17 +88,18 @@ button#button {
     transform: translate(-50%, -50%);
 }
 p.result {
-    position: absolute;
-    top: 32%;
-    left: 50%;
-    transform: translate(-50%, -60%);
+     position: absolute;
+    top: 7%;
     color: #fff;
     text-align: center;
     text-transform: capitalize;
-    font-size: 46px;
+    font-size: 40px;
+    text-align: center;
+    line-height: 53px;
+    padding: 0 1%;
 }
 p b {
-   font-size: 60px;
+   font-size: 45px;
     
 }
 b.first-letter {
